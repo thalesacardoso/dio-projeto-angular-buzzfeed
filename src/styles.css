@@ -15,12 +15,11 @@ DATA:
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
     list-style: none; 
-    color: #23272A; 
+    color: #FFF; 
 }
 
 html {
     font-size: 16px;
-    color: black;
 }
 
 body {
@@ -32,7 +31,7 @@ h1 {
     font-weight: 800;
 }
 
-h2 {
+h2, h3 {
     font-size: 1.5rem;
     font-weight: 800;
 }
@@ -40,7 +39,6 @@ h2 {
 p {
     font-size: 1rem;
     font-weight: 400;
-    color: #555;
 }
 
 img {
